@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://mahracha02.github.io/escape-the-web/",
+  "homepage": "https://mahracha02.github.io/escape2/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
